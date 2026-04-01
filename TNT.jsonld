@@ -59,5 +59,17 @@
     }
   },
   "authors": [],
-  "hashAlgorithm": "blake2b-256"
+  "hashAlgorithm": "blake2b-256",
+  "body": {
+    "givenName": "TNT",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://raw.githubusercontent.com/aeseb12-hub/TNT/main/Foto%20Linkedlin.jpg",
+      "sha256": "09a4d3e5ed5b07ebce79400fd650d8fc66ca5fa461a34c787f6791c001161823"
+    },
+    "motivations": "Grado en Economía (Universitat Oberta de Catalunya). Sigo de forma constante la actualidad político-económica global. Formo parte del ecosistema Cardano desde la era Byron y he seguido de cerca los discursos y AMAs de Charles Hoskinson desde 2021. Utilizo activamente el ecosistema DeFi de Cardano y participo como inversor.\n\nBachelor’s Degree in Economics (Universitat Oberta de Catalunya). I closely follow global political and economic developments on an ongoing basis. I have been part of the Cardano ecosystem since the Byron era and have closely followed the speeches and AMAs of Charles Hoskinson since 2021. I actively use the Cardano DeFi ecosystem and participate as an investor.",
+    "objectives": "Mi objetivo es aportar para que Cardano se convierta en una herramienta clave del libertarismo de base, revolucionando los sistemas financieros para eliminar intermediarios y favoreciendo estructuras sociales más libres incluso frente a dinámicas de ingeniería social dentro de las democracias liberales.\n\nMy goal is to contribute to making Cardano a key tool for grassroots libertarianism, revolutionizing financial systems to eliminate intermediaries and fostering freer social structures, even in the face of social engineering dynamics within liberal democracies.",
+    "paymentAddress": "addr1q9qpt0s9v6m39f7h75uyks7dt7m2kmh40ehvc0stag8zf8erg6xhjkrjlmy0sgfy669esdym6t83zcrg3sc5we9kdjtsjeq6ss",
+    "qualifications": "Grado de Economía en la Universitat Oberta de Catalunya; orientación filosófica: libertarismo de base.\n\nBachelor’s Degree in Economics at the Universitat Oberta de Catalunya; philosophical orientation: grassroots libertarianism."
+  }
 }
